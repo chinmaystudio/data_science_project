@@ -1,0 +1,14 @@
+{
+  "rows": 200000,
+  "columns": 47,
+  "numeric_columns": 26,
+  "text_columns": 21,
+  "missing_cells": 74332,
+  "duplicate_rows": 0,
+  "data_origin": "SYNTHETIC_BOOTSTRAP_FROM_NIRIKSHAK_PROJECTS",
+  "duplicates_removed": 0,
+  "rows_after_cleaning": 200000,
+  "major_delay_rate_pct": 18.21,
+  "train_rows": 160000,
+  "test_rows": 40000
+}

@@ -1,0 +1,5 @@
+model,MAE,RMSE,R2,train_seconds
+Baseline (always predict mean),13.031,17.776,-0.0,
+Linear Regression,10.39,14.025,0.3775,1.0
+Decision Tree,11.259,15.291,0.26,2.4
+Random Forest,10.694,14.492,0.3354,33.3

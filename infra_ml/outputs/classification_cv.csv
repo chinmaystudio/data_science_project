@@ -1,0 +1,4 @@
+model,metric,cv_mean,cv_std,fold_1,fold_2,fold_3,fold_4,fold_5
+Logistic Regression,roc_auc,0.8601,0.004,0.8623,0.8579,0.8667,0.8585,0.8551
+Decision Tree,roc_auc,0.7612,0.0058,0.7524,0.7637,0.7626,0.7695,0.7577
+Random Forest,roc_auc,0.8365,0.0018,0.8353,0.8376,0.8393,0.8345,0.8356

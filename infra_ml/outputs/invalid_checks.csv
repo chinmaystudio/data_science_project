@@ -1,0 +1,8 @@
+check,rows_found
+Sanctioned cost <= 0,0
+Planned duration <= 0,0
+Land acquired % outside 0-100,0
+Negative delay,0
+Bid ratio <= 0,0
+Award date after 30-09-2026 (status date),2938
+Not-started project (Tendered/Approved) with delay > 0,5849
